@@ -4,7 +4,7 @@ var mensajeInput = document.createTextNode("");
 crearInput.appendChild(mensajeInput);
 elInput.appendChild(crearInput);
 
-var elBoton = document.getElementsByClassName("boton");
+var elBoton = document.getElementsByClassName("añade");
 var crearBoton = document.createElement("button");
 var atributoBoton = document.createAttribute("button");
 crearBoton.appendChild(atributoBoton);

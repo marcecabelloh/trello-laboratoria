@@ -2,9 +2,12 @@ body {
 	background-color: #026AA7;
 }
 
-h1 {
+h1{
+	text-align: center;
+	background-color:beige;
+	color:black;
 	font-family: 'Slabo 27px', serif;
-	color: #ffff;
+	
 }
 
 a {
